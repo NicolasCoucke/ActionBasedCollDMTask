@@ -1,0 +1,71 @@
+{
+    "name": "MyControls",
+    "maps": [
+        {
+            "name": "New action map",
+            "id": "2742f085-6ca8-4a4a-8c31-490d42e07447",
+            "actions": [
+                {
+                    "name": "confUp",
+                    "type": "Button",
+                    "id": "8ddc7892-e00f-46ac-9c70-ae793ec6eb77",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "1a028e22-964b-41fd-9080-55e9c4c4cb39",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "confUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e6c3b2a8-6ecd-400e-92c0-c705cf70cd49",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "confUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "New action map1",
+            "id": "4370d6d1-85ad-47a6-a4de-9eb8e23d5c83",
+            "actions": [
+                {
+                    "name": "New action",
+                    "type": "Button",
+                    "id": "182ed9e2-a7f6-472f-9706-3a4b958583f8",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ecc22ec2-e07c-4a87-92c6-dc4f6a29221a",
+                    "path": "",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "New action",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
